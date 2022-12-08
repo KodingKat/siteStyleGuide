@@ -1,0 +1,39 @@
+body {
+    margin: 0 10%;
+    padding: 0;
+}
+
+.container {
+    padding: 10px;
+    border: 2px solid #000;
+    margin: 10px auto;
+}
+
+.color-container {
+    text-align: center;
+    display: inline;
+}
+
+.purple {
+    background-color: #8a00c2;
+    color: #fff;
+}
+
+.midnight-blue {
+    background-color: #191970;
+    color: #fff;
+    font-weight: bold;
+}
+
+.platinum-green {
+    background-color: #116466;
+    color: #fff;
+}
+
+.color-panel {
+    font-weight: bold;
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+
