@@ -1,14 +1,18 @@
+/*Main section*/
 body {
     margin: 0 10%;
     padding: 0;
+    background-color: #dcd2f6;
 }
 
 .container {
     padding: 10px;
     border: 2px solid #000;
     margin: 10px auto;
+    background-color: #fff;
 }
 
+/*Color portion*/
 .color-container {
     text-align: center;
     display: inline;
@@ -37,3 +41,25 @@ body {
     text-align: center;
 }
 
+/*Fonts*/
+
+.fonts-container {
+    display: inline;
+}
+
+.fonts-panel {
+    width: 33%;
+    display: inline-block;
+}
+
+.open-sans {
+    font-family: "Open Sans";
+}
+
+.Montserrat {
+    font-family: "Montserrat";
+}
+
+.arial {
+    font-family: arial;
+}
