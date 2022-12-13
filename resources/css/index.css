@@ -12,6 +12,25 @@ body {
     background-color: #fff;
 }
 
+/*General style edits*/
+h1 {
+    font-weight: bold;
+    font-family: "Montserrat";
+    font-size: 40px;
+}
+
+p {
+    font-weight: normal;
+    font-family: "Open Sans";
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
 /*Color portion*/
 .color-container {
     text-align: center;
@@ -46,12 +65,14 @@ body {
 /*Fonts*/
 
 .fonts-container {
-    display: inline;
+    display: inline-block;
+    text-align: left;
 }
 
 .fonts-panel {
     width: 33%;
     display: inline-block;
+    vertical-align: top;
 }
 
 .open-sans {
