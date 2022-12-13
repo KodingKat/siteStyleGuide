@@ -37,6 +37,17 @@ h3 {
     display: inline;
 }
 
+.color-panel {
+    font-weight: bold;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    min-height: 300px;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
 .purple {
     background-color: #8a00c2;
     color: #fff;
@@ -51,15 +62,6 @@ h3 {
 .platinum-green {
     background-color: #116466;
     color: #fff;
-}
-
-.color-panel {
-    font-weight: bold;
-    width: 33%;
-    display: inline-block;
-    text-align: center;
-    vertical-align: top;
-    min-height: 200px;
 }
 
 /*Fonts*/
