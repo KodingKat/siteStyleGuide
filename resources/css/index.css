@@ -39,6 +39,8 @@ body {
     width: 33%;
     display: inline-block;
     text-align: center;
+    vertical-align: top;
+    min-height: 200px;
 }
 
 /*Fonts*/
